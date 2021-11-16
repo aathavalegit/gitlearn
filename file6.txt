@@ -1,1 +1,1 @@
-3 way commit from master- Update from master
+Manual Update as part of merge process - overriding both BR1 and Master data
